@@ -37,7 +37,7 @@ Valentin Mayer, University of Bayreuth, Germany
 Cite as:\
 *FairDice: An interactive lecture hall experiment to showcase the nuances of fairness, licensed under
 [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt),
-via https://github.com/AI-for-Business/UBT_LD-VM_FairDice*
+via https://github.com/AI-for-Business/FairDice*
 
 # DOI - code
 tbd
