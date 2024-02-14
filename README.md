@@ -31,7 +31,7 @@ As such:
 * ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 # Authors, citation
-Luca Deck, University of Bayreuth, Germany
+Luca Deck, University of Bayreuth, Germany \
 Valentin Mayer, University of Bayreuth, Germany
 
 Cite as:\
