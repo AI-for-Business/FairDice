@@ -11,7 +11,7 @@ Through an engaging classroom experiment featuring a simple game, we aim to rais
   
 # What do I need in order to use it?
 - As a teacher, you should have a basic understanding for the subtleties of fairness as well as for the mechanisms of AI models.
-- The experiment involves an interactive Mentimeter presentation (which requires a Mentimeter license) as well as some PowerPoint slides.
+- The experiment involves an interactive [  Mentimeter](www.mentimeter.com) presentation (which requires a Mentimeter license) as well as some PowerPoint slides.
 - To conduct the experiment in person, you need a regular die as well as a loaded die such as [this one](https://www.galerie-hunold.de/product/timm-ulrichs-glueckswuerfel/). 
 
 # Copyright / license
