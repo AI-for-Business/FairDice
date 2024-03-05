@@ -40,7 +40,7 @@ Cite as:\
 via https://github.com/AI-for-Business/FairDice*
 
 # DOI - code
-tbd
+[![DOI](https://zenodo.org/badge/757302735.svg)](https://zenodo.org/doi/10.5281/zenodo.10783456)
 
 # Contact / about us
 * You can find all of our repositories [here](https://github.com/orgs/AI-for-Business/repositories).
