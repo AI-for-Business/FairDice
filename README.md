@@ -1,7 +1,7 @@
 # Bringing AI Fairness into classrooms
 AI has become an integral part of our daily lives, influencing various systems that often make impactful decisions affecting human lives. Despite aspirations for "fairer" and "more neutral" outcomes, the responsibility of weighing ethical considerations and objectives still rests upon us humans. Therefore, it is crucial to introduce future developers and decision-makers, both teachers and students alike, to normative questions from an early stage.
 
-Through an engaging classroom experiment featuring a simple game, we aim to raise awareness among students about the complexity and nuances of fairness. By directly involving them, we can make subtle differences in fairness perception tangible and encourage discussions. Moreover, we'll provide a contextual framework by exploring various fairness concepts, bridging the gap to real-world algorithmic implementations of fairness and highlighting the potential societal impacts of AI.
+Through an engaging classroom experiment featuring a simple game, we aim to raise awareness among students about the complexity and nuances of fairness. By directly involving them, we can make subtle differences in fairness perception tangible and encourage discussions. Moreover, we provide introductory examples and materials to explore various fairness concepts, bridging the gap to real-world algorithmic implementations of fairness and highlighting the potential societal impacts of AI.
 
 # Learning objectives:
 - Heightened awareness of the relevance and challenges surrounding fairness in AI for both educators and students
