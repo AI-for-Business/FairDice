@@ -1,7 +1,7 @@
 # Bringing AI Fairness into classrooms
 AI has become an integral part of our daily lives, influencing various systems that often make impactful decisions affecting human lives. Despite aspirations for "fairer" and "more neutral" outcomes, the responsibility of weighing ethical considerations and objectives still rests upon us humans. Therefore, it is crucial to introduce future developers and decision-makers, both teachers and students alike, to normative questions from an early stage.
 
-Through an engaging classroom experiment featuring a simple game, we aim to raise awareness among students about the complexity and nuances of fairness. By directly involving them, we can make subtle differences in fairness perception tangible and encourage discussions. Moreover, we'll provide a contextual framework by exploring various fairness concepts, bridging the gap to real-world algorithmic implementations of fairness and highlighting the potential societal impacts of AI.
+Through an engaging classroom experiment featuring a simple game, we aim to raise awareness among students about the complexity and nuances of fairness. By directly involving them, we can make subtle differences in fairness perception tangible and encourage discussions. Moreover, we provide introductory examples and materials to explore various fairness concepts, bridging the gap to real-world algorithmic implementations of fairness and highlighting the potential societal impacts of AI.
 
 # Learning objectives:
 - Heightened awareness of the relevance and challenges surrounding fairness in AI for both educators and students
@@ -31,7 +31,7 @@ As such:
 * ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 # Authors, citation
-Luca Deck, University of Bayreuth, Germany
+Luca Deck, University of Bayreuth, Germany \
 Valentin Mayer, University of Bayreuth, Germany
 
 Cite as:\
@@ -40,7 +40,7 @@ Cite as:\
 via https://github.com/AI-for-Business/FairDice*
 
 # DOI - code
-tbd
+[![DOI](https://zenodo.org/badge/757302735.svg)](https://zenodo.org/doi/10.5281/zenodo.10783456)
 
 # Contact / about us
 * You can find all of our repositories [here](https://github.com/orgs/AI-for-Business/repositories).
